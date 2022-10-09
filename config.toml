@@ -1,0 +1,4 @@
+baseURL = 'http://epistemology.dev/'
+languageCode = 'en-us'
+title = 'Software Developer Epistemology'
+theme = "holy"
