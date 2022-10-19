@@ -10,6 +10,8 @@ An esteemed colleague of mine were talking recently about the concept of the 10x
 * knowing concrete actions and reflection one can take to become a 10x programmer
 * dispelling useless ideas that prevent you from seeing your situation with clearer eyes
 
+# Genus
+
 Let's begin by talking definitions.  A 10x programmer should be categorically consistent with other terminology.  What is the genus what is the differentia.  The is an important place to begin because analysis of the genus first leads us to the question, "what is a 10x programmer in reference to?".  There are many options:
 
 * relative to the worst programmer in existence
@@ -24,6 +26,8 @@ We come first to the realization that 10x programmer really is an assignment of 
 
 By constraining our contrast to the organization a programmer belongs to we can more narrowly focus on important distinguishing differentia. Importantly we must immediately constrain that a 10x developer is not just 10x better in perception, but must be differentiated in certain objective qualities beyond the imagination of society.
 
+ # Differntia
+
 This brings us to our next question, in what objective ways is a 10x programmer different from their peers? Let's start firstly with eliminating possibilities.  There are many ways in which a programmer can never be an order of magnitude greater than their peers:
 
 Consider first typing speed.  A 10x programmer is not differentiated by typing speed.  There are physical and cognitive limits to a programmers ability to type out code.  Even if it were possible speed of typing is a useless metric that has nothing to do with code quality, if a quick typer types and deletes bad code multiple times their speed does nothing for them versus a programmer that writes the correct code the first time.
@@ -33,6 +37,8 @@ Consider also lines of code.  A 10x programmer is not necessarily disinguished b
 Consider other physical limits: such a cognitive memory, concious hours in a day, number of meetings with colleagues.  These are dimensions which programmers can certainly have advantages in, but not 10x order of magnitude advantages.  
 
 So what areas do we start to see remain as viable candidates?  The realm begins to concentrate primarily on the cognitive and personal characteristics of the indivduals conciousness itself.  When integrating various advantages we see programmers have, we begin to see the commonality of increasing the utilization of a programmers physical time.  The leads us to a clue that 10x programmer is sufficiently distinguished by objective cognitive qualities that allow the individual to maximize the utilization of their time.
+
+# Habits of 10x Programmers
 
 Below are my personal inductions of habits that meet that criteria from my observed experiences of the greatest programmers i've worked with:
 
