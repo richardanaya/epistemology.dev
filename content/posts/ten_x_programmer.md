@@ -26,7 +26,7 @@ We come first to the realization that 10x programmer really is an assignment of 
 
 By constraining our contrast to the organization a programmer belongs to we can more narrowly focus on important distinguishing differentia. Importantly we must immediately constrain that a 10x developer is not just 10x better in perception, but must be differentiated in certain objective qualities beyond the imagination of society.
 
- # Differntia
+ # Differentia
 
 This brings us to our next question, in what objective ways is a 10x programmer different from their peers? Let's start firstly with eliminating possibilities.  There are many ways in which a programmer can never be an order of magnitude greater than their peers:
 
@@ -38,7 +38,7 @@ Consider other physical limits: such a cognitive memory, concious hours in a day
 
 So what areas do we start to see remain as viable candidates?  The realm begins to concentrate primarily on the cognitive and personal characteristics of the indivduals conciousness itself.  When integrating various advantages we see programmers have, we begin to see the commonality of increasing the utilization of a programmers physical time.  The leads us to a clue that 10x programmer is sufficiently distinguished by objective cognitive qualities that allow the individual to maximize the utilization of their time.
 
-# Habits of 10x Programmers
+# Objective cognitive qualities of 10x Programmers
 
 Below are my personal inductions of habits that meet that criteria from my observed experiences of the greatest programmers i've worked with:
 
