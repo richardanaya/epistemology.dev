@@ -1,3 +1,5 @@
+run:
+	hugo server -D
 deploy:
 	hugo -D
 	git add  .

@@ -1,0 +1,1 @@
+Writings by [Richard Anaya](https://github.com/richardanaya/) on living a purposeful life as a programmer guided by reason.
