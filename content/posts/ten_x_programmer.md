@@ -22,23 +22,23 @@ To improve this word what i'm going to do is attempt to give it a more solid def
 
 This first leads us to the question, "what group is a 10x programmer in relation to?".  There are many options:
 
-* the worst programmers in existence amongst all programmers
-* the average programmers in existence amongst all programmers
-* entry level programmers amongst an organization
+* A 10x programmer is 10x better than the worst programmers in existence amongst all programmers
+* A 10x programmer is 10x better than the the average programmers in existence amongst all programmers
+* A 10x programmer is 10x better than the entry level programmers amongst an organization
 
-When talking about comparison of individuals it's important to try to remove as many non essential variables as possible. It's useless to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization as a context.  This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes outside of my organization:
+When talking about comparison of individuals it's important to try to remove as many non-essential comparisons as possible. It's useless to compare 10x programmers totally outside of a specific context. What could be answered by knowing a person is 10x better than the worst programmer in the world? Let's consider the choice of looking at 10x programmers in an organizational context. This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes not related to my organization:
 
 * programmers still in school and not even working at my organization
 * retired programmers not working in any organization
 * programmers in entirely different industries or skill sets outside of my organization's domain of work
 
-The choice of defining 10x programmers within the context of an organization may seem an easy obvious choice, but let me demonstrate some examples that show its lack of utility.  
+Certainly this broadens analysis of the internal state of an organization. The choice of defining 10x programmers within the context of an organization seems like a temptingly easy context to assign our definition, but let me demonstrate some examples that show its severe lack of utility.  Let's imagine some scenarios:
 
-* Within organization ABC there is an exceptionally talented programmer.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers don't exist in this world despite there being objectively great programmers.  This choice of context limits us from distinguishing how good the individuals at our organization actually are due to no contrast in relativity.
+* Within organization ABC there is an exceptionally talented programmer.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers aren't possible to exist despite there being great programmers.  This choice of context limits us from identifying the quality of the individuals at our organization actually are due to no contrast in relativity.
 
-* Within organization XYZ there is an average programmer, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has prevented us from seeing the true averageness of the individual and the dire situation of the organization.
+* Within organization XYZ there is an average programmer, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has obscured from us from seeing the true direness situation of the organization by a misleading representation of an average skilled programmer as exceptional.
 
-10x programmer as a concept cannot be useful when it's constrained by an organizational context due to organizations having the potential to be greatly imbalanced (and often are over time). Remember, we're trying to identify the truly exceptional! Let's consider an alternative choice of context to constrain our relations -- using a programmers role.  This feels appropriate at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that have individuals who are primarily compared between each other:
+I think these situations are common enough to conclude that we cannot have a meaningful definition of 10x programmer constrained by an organizational context. Remember, we're trying to clearly identify the truly exceptional! Let's consider an alternative choice of context to constrain our relations -- using a programmers role.  This feels more appropriate due to the common sense that not every programmer is an alternative for another, consider various roles that have individuals who are commonly compared between each other:
 
 * *graphics* programmers are compared to other graphics programmers
 * *intern* programmers are compared to other interns
