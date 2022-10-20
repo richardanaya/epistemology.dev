@@ -82,7 +82,7 @@ The characteristics I will argue that are essential to the 10x programmers are t
 
 ## Objective high-output qualities of 10x Programmers
 
-To show my induction of my conclusion, I will make the argument that creating meaningful and appropriately architect product features has objective requirements:
+To show my induction of my conclusion, I will make the argument that creating meaningful and appropriately architected product features has objective requirements:
 
 * time to do the work
 * a desire to do the work and learn
