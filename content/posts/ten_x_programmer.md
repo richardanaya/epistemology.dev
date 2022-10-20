@@ -123,7 +123,7 @@ Looking at this list we see similarities amongst these traits that they are all 
 All of the impacts of these habits are multiplied together to get time usage to that heroic tier.  
 ## Conclusion
 
-In conclusion we've identified a useful definition based on traits that create objectively-measurable high impact action for the creation of valueable product deliverables:
+In conclusion we've identified a useful definition emphasized with traits that impact creation of product deliverables in an objectively-measurable manner:
 
 > **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has achieved a 10x utilization of their time compared to their peers of a similar role via the acquisition of long-term personal alignment with their work and effective knowledge building/application.
 
