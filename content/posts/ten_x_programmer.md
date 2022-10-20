@@ -8,9 +8,9 @@ An esteemed colleague of mine and I were recently talking about the concept of t
 
 Understanding the term 10x programmer has many potential uses if it is real:
 
-* improving the identification valuable team members with exceptional skills
+* improving the identification of valuable team members with exceptional skills
 * identifying specific actions and skills one can acquire to become a 10x programmer
-* dispelling useless ideas that distract the analysis of your team's clusters of talent
+* dispelling useless ideas that distract the analysis of your organization
 
 ## Genus
 
