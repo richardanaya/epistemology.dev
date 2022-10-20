@@ -89,7 +89,9 @@ Though these do make for a intriguing coworker, the characteristics I will argue
 
 ## High-output habits of 10x Programmers
 
-To show my integration of my conclusion, I will make the argument that creating meaningful and appropriately architected product features has objective requirements:
+The foundations of those long-term characteristics that make a programmer great are not random.  Product development and good thinking in general have objective natures that only have a small list of satisfactory actions.
+
+Consider core requirements of a programmer for creating product features:
 
 * time to do the work
 * a desire to do the work and learn
