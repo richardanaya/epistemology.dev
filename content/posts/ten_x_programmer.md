@@ -116,6 +116,6 @@ All of these attributes are compounding qualities that when multiplied together 
 
 In conclusion we've identified a useful definition based on objective traits that create high impact action to product deliverables:
 
-> **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has acheived a 10x utilization of their time compared to their peers of a similar role via the acquisition long-term deep personal alignment with their work and effective knowledge building of their role's field.
+> **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has acheived a 10x utilization of their time compared to their peers of a similar role via the acquisition of long-term personal alignment with their work and effective knowledge building/application.
 
 With this definition we can identify the exceptional members of our organization clearly. These marveled people that enduringly accomplish great work can be taken down from a pedestal of mythological and seen as realistically heroic peer they are.  Their skills can inspire us with fuel to acheive our own greatness, and not live as a mystery lacking useful comparison or reflection.
