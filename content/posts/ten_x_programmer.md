@@ -113,13 +113,13 @@ They are always looking out for new useful principles to integrate their experie
 
 Avoiding expensive work twice, once knowledge has been acquired, programmers are in a unique position to automate what they learned.  10x programmers take advantage of this to save themselves from redundant expenditure of time.
 
-Looking at this list we see similarities amongst these traits that they are all mental advantages.  Importantly, there are advantages with huge spread of impact enough to contribute to the order of magnitude of "10x".
+Looking at this list we see similarities amongst these traits that they are all mental advantages.  Importantly, there are advantages with a huge spread of impact enough to contribute to the order of magnitude of "10x".
 
 * the difference between the endurance of a programmer who loves their job vs hates it is huge
 * the difference between a programmer who automates and one who doesn't is huge
 * the difference between a programmer who knows their code base and one who doesn't is huge
 
-All of impacts of these habits are multiplied together to get time usage to that heroic tier.  
+All of the impacts of these habits are multiplied together to get time usage to that heroic tier.  
 ## Conclusion
 
 In conclusion we've identified a useful definition based on objective traits that create high impact action to product deliverables:
