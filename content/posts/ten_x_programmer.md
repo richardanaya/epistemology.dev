@@ -87,7 +87,7 @@ Viable candidates for differentia concentrate on long-term mental/personal chara
 
 Though these do make for a intriguing coworker, the characteristics I will argue that are essential to the 10x programmers are the habits that specifically maximize utilization of a programmer's time to create product features.
 
-## High-output habits of 10x Programmers
+## High-output traits of 10x Programmers
 
 The foundations of those long-term characteristics that make a programmer great are not random.  Product development and good thinking in general have objective natures that only have a small list of satisfactory actions.
 
@@ -98,7 +98,8 @@ Consider core requirements of a programmer for creating product features:
 * clear understanding of what's valuable to a customer to make that time worthwhile
 * working knowledge of one's code base
 
-A 10x programmer excels in all of these requirements to high degrees allowing them to outpace their peers and deserve their distinction.  The biggest variable is primarily time.  Time can be used well or time can be wasted.  It is the mental capacities and personality of the programmer that make that time well spent or not.
+
+A 10x programmer excels in all of these requirements, developing powerful traits allowing them to outpace their peers and deserve their distinction.
 
 > a desire to do the work
 
@@ -112,13 +113,13 @@ A 10x programmer doesn't just view their job as a boring means to pay the bills.
 
 They know the terrain of their code.  There is a huge difference from a programmer day 1 of joining a company and 6 months in.  They have not put the blinders on about any dark corners of their code repo.  They seek new ways to unblock themselves to allow their use of time to never be hindered.
 
-There are also two other habits of programmers in virtue of being programmers (independent of product feature requirements) that have great impact on use of time in general:
+A number of traits related to knowledge usage and application in general greatly impact the operation of a programmers work:
 
->  a strategic method of building knowledge
+> build principles
 
 They are always looking out for new useful principles to integrate their experience.  To a 10x programmer, the world of programming is not a world of totally unique snowflakes.  There are patterns all over one can recognize, and form into a useful principle for use the next time the situation is encountered.  10x programmers actively build these principles from their own experience and when principles are borrowed from authorities they are validated personally.
 
-> they automate 
+> automate often
 
 Avoiding expensive work twice, once knowledge has been acquired, programmers are in a unique position to automate what they learned.  10x programmers take advantage of this to save themselves from redundant expenditure of time.
 
