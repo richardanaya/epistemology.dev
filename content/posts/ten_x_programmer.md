@@ -25,9 +25,6 @@ This first leads us to the question, "what group is a 10x programmer in relation
 * the worst programmers in existence amongst all programmers
 * the average programmers in existence amongst all programmers
 * entry level programmers amongst an organization
-* the opinion of what an average programmer is amongst all programmers 
-
-I want to stress first that this relationship should be objective ( existing in reality outside of the mind ) between programmers.  We're wanting to stay as far from a subjective definition as possible, as many people can have imaginations of what programmers are rockstars despite lack of evidence.  We're talking about real performance of some kind that's measurable in the same way that a marathon runner can be objectively measured vs another.
 
 When talking about comparison of skills it's important to try to isolate as many non essential variables as possible. It's useless to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization as a context.  This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes outside of my organization:
 
