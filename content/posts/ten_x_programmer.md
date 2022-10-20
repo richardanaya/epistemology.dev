@@ -42,12 +42,12 @@ The choice of defining 10x programmers within the context of an organization may
 
 10x programmer as a concept cannot usefully be in a relation within a organizational context as organizations can be greatly imbalanced. Remember, we're trying to identify the truly exceptional! Let's consider an alternative choice of context to constrain our relations using a programmers role.  This feels useful at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that are primarily compared between each other:
 
-* *graphics* programmer
-* *intern* programmer
-* *web* programmer
-* *senior* programmer
+* *graphics* programmers
+* *intern* programmers
+* *web* programmers
+* *senior* programmers
 
-By using the context of a programmer's role as the genus we discover major insight.  By allowing us to declare by role "This programmer in this role is 10x better than their peers", we have the ability to offer a type of evidence to many more useful questions:
+By using the context of a programmer's role as the genus we discover major insight.  By allowing us to declare "This programmer in this role is 10x better than their peers of similar role", we have the ability to offer evidence to many more useful questions:
 * do we have top tier talent for the roles of programmers we hire?
 * are the interns we've hired of high quality?
 * is our software engineer of such high performance they deserve a promotion to senior engineer?
