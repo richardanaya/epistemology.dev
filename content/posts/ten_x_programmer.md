@@ -37,15 +37,16 @@ When talking about comparison of skills I think it's important to try to isolate
 
 The choice of defining 10x programmers within the context of an organization may seem an easy obvious choice, but let me demonstrate some examples that show its lack of utility.  
 
-* One programmer works at a company with truly great programmers.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers don't exist in this world despite there being objectively great programmers.  This choice of context has prevented us from distinguishing how good the individual is at our organization actually are due to no contrast in relativity.
-* One programmer works at a company, they are average skilled, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has prevented us from seeing the true averageness of the individual.
+* Within organization ABC there is an exceptionally talented programmer.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers don't exist in this world despite there being objectively great programmers.  This choice of context has prevented us from distinguishing how good the individual is at our organization actually are due to no contrast in relativity.
 
-10x programmer as a concept cannot usefully be in a relation within an organizational context as organizations can be greatly imbalanced. Remember, we're trying to identify the truly exceptional! Let's consider an alternative choice of context to constrain our relations using a programmers role.  This feels useful at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that are primarily compared between each other:
+* Within organization XYZ there is an average programmer, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has prevented us from seeing the true averageness of the individual and the dire situation of the organization.
 
-* *graphics* programmers
-* *intern* programmers
-* *web* programmers
-* *senior* programmers
+10x programmer as a concept cannot be useful when it's constrained by an organizational context due to organizations having the potential to be greatly imbalanced (and often are over time). Remember, we're trying to identify the truly exceptional! Let's consider an alternative choice of context to constrain our relations using a programmers role.  This feels appropriate at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that have individuals who are primarily compared between each other:
+
+* *graphics* programmers are compared to other graphics programmers
+* *intern* programmers are compared to other interns
+* *web* programmers are compared to other web devs
+* *senior* programmers are compared to other senior devs
 
 By using the context of a programmer's role as the genus we discover major insight.  By allowing us to declare "This programmer in this role is 10x better than their peers of similar role", we have the ability to offer evidence to many more useful questions:
 
@@ -53,7 +54,13 @@ By using the context of a programmer's role as the genus we discover major insig
 * "Are the interns we've hired of high quality?"
 * "Is our software engineer of such high performance they deserve a promotion to senior engineer?"
 
-These are the types of questions I believe the term 10x programmer was meant to be used for in an answer.  We want to identify those who are exceptional in our industry at many skills capacities (junior, senior, etc.) and within narrow types of work (web programming, game programming, devops).
+These are the types of questions I believe the term 10x programmer was meant to be used for in an answer. 
+
+* "She's a 10x programmer, we should promote her above her peers"
+* "Our devops team is really average compared to the 10x devops I saw at my last company"
+* "That new intern is 10x and hungry, I can see them going places fast"
+
+ We want to identify those who are exceptional in our industry at many skills capacities (junior, senior, etc.) and within comparable types of work (web programming, game programming, devops).
 
  ## Differentia
 
