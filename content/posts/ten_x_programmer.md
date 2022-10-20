@@ -34,11 +34,11 @@ When talking about comparison of individuals it's important to try to remove as 
 
 Certainly this broadens analysis of the internal state of an organization. The choice of defining 10x programmers within the context of an organization seems like a temptingly easy context to assign our definition, but let me demonstrate some examples that show its severe lack of utility.  Let's imagine some scenarios:
 
-* Within organization ABC there is an exceptionally talented programmer.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers aren't possible to exist despite there being great programmers.  This choice of context limits us from identifying the quality of the individuals at our organization actually are due to no contrast in relativity.
+* Within organization ABC all of it's programmers are similarly skilled.  10x programmers aren't possible to exist in a place where everyone is similarly skilled.  This choice of context limits us from identifying the quality of the individuals at our organization actually are due to no contrast in it's homogeneous makeup.  Our programmers might all be great, they might all be terrible. We'll never know if we only compare within our organization.
 
-* Within organization XYZ there is an average programmer, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has obscured from us from seeing the true direness situation of the organization by a misleading representation of an average skilled programmer as exceptional.
+* Within organization XYZ there is an average programmer, but every other developer at this company is completely unskilled.  Relatively, this person is amazing compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has obscured from us from seeing the true direness situation of the organization by a misleading representation of an average skilled programmer as exceptional.
 
-I think these situations are common enough to conclude that we cannot have a meaningful definition of 10x programmer constrained by an organizational context. Remember, we're trying to clearly identify the truly exceptional! If our definition is to be useful, it shouldn't change the moment people join or leave our organization.  A 10x developer doesn't stop being objectively talented because a junior developer leaves the company.
+I think these situations are common enough to conclude that we cannot have a meaningful definition of 10x programmer constrained by an organizational context. Remember, we're trying to clearly identify the truly exceptional! If our definition is to be useful, it shouldn't change the moment people join or leave our organization. A 10x developer doesn't stop being objectively talented because a junior developer leaves the company.
 
 Let's consider an alternative choice of context to constrain our relation -- using a programmers role. This feels more appropriate due to the common sense that not every programmer is an alternative for another, consider various roles that have individuals who are commonly compared between each other:
 
@@ -81,25 +81,24 @@ A 10x programmer is not necessarily distinguished by lines of code.  10x quantit
 
 Consider other physical aspects: conscious hours in a day, bodily health, raw brain power (the ability to keep many things in your mind at once).  These are dimensions which programmers can certainly have advantages in, but not order of magnitude advantages.
 
-Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's individual nature.  I should be clear though that even within long-term mental/personal characteristics a programmer possesses, there are many that are useless to the work of programming:
+Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's individual nature.  Even within these characteristics a programmer possesses there are many that are useless to the work of programming:
 
-* Recalling random facts (such as flags of a country) of an unreleted domain. 
+* Being able to recalling random facts (such as flags of a country) of an unreleted domains. 
 * An intense hobby (say cooking).
 * A nack for smalltalk about sports.
 
-Though these do make for a intriguing coworker, the characteristics I will argue that are essential to the 10x programmers are the habits that specifically maximize utilization of a programmer's time to create product features.
+Though these do make for a intriguing coworker, the characteristics I will argue that are essential to the 10x programmers are the traits that specifically maximize utilization of a programmer's time to create product features.
 
 ## High-output traits of 10x Programmers
 
 The foundations of those long-term characteristics that make a programmer great are not random.  Product development and good thinking in general have objective natures that only have a small list of satisfactory actions.
 
-Consider core requirements of a programmer for creating product features:
+Consider essential requirements of a programmer for creating product features:
 
 * time to do the work
 * a desire to do the work and learn
 * clear understanding of what's valuable to a customer to make that time worthwhile
 * working knowledge of one's code base
-
 
 A 10x programmer excels in all of these requirements, developing powerful traits allowing them to outpace their peers and deserve their distinction.
 
