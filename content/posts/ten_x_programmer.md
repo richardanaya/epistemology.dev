@@ -104,7 +104,7 @@ A 10x programmer doesn't just view their job as a boring means to pay the bills.
 
 They know the terrain of their code.  There is a huge difference from a programmer day 1 of joining a company and 6 months in.  They have not put the blinders on about any dark corners of their code repo.  They seek new ways to unblock themselves to allow their use of time to never be hindered.
 
-There are also two other habits of programmers in virtue of being programmers (independent of product feature requirements) but also have great impact on use of time in general:
+There are also two other habits of programmers in virtue of being programmers (independent of product feature requirements) that have great impact on use of time in general:
 
 >  a strategic method of building knowledge
 
