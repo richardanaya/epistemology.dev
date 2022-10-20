@@ -4,7 +4,7 @@ date: 2022-10-09T16:17:12-07:00
 draft: true
 ---
 
-An esteemed colleague of mine were talking recently about the concept of the 10x programmer.  In our industry of software development a certain whisper of these mythological personas has spread far enough that I think it deserves attention.  Understanding what makes a 10x programmer I think has many uses:
+An esteemed colleague of mine were talking recently about the concept of the 10x programmer.  In our industry of software development a certain whisper of these mythological personas has spread far enough that I think it deserves attention. 10x programmers are the demi-heroes of our industry. Understanding what makes a 10x programmer I think has many uses:
 
 * improving the indentification valuable team members with exceptional skills
 * knowing concrete actions and reflection one can take to become a 10x programmer
@@ -74,4 +74,4 @@ In conclusion we've identified a useful and objective definition of 10x programm
 
 > A programmer of a specific role who has acheived a 10x utilization of their time compared to their peers of a similar role via the acquisition long-term deep personal alignment with their work and effective knowledge building of their role's field.
 
-With this definition we can identify the exception members of our organization.  These marveled people that enduringly accomplish great work can be seen for the less mythological and realistically heroic individuals they are.  Their skills can inspire us with fuel to acheive our own greatness, and not live as a mystery lacking comparison or reflection.
+With this definition we can identify the exceptional members of our organization.  These marveled people that enduringly accomplish great work can be taken down from a pedestal of mythological and seen as realistically heroic peer they are.  Their skills can inspire us with fuel to acheive our own greatness, and not live as a mystery lacking useful comparison or reflection.
