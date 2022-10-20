@@ -4,17 +4,17 @@ date: 2022-10-09T16:17:12-07:00
 draft: true
 ---
 
-An esteemed colleague of mine were recently talking about the concept of the 10x programmer. They exist in the software development industry as a whisper of mythological personas. To those of you who have never heard of this cliche, 10x programmers are the demi-heroes of our industry: they get massive accomplishments done with seemingly super-natural endurance and passion.  Perhaps you think you are one ( or someone you know )? I challenge you with the question "How would you know?". This term is popular enough that I think it deserves attention, and I think we can improve from something vague into something concrete. 
+An esteemed colleague of mine were recently talking about the concept of the 10x programmer. They exist in the software development industry as a whisper of mythological personas. To those of you who have never heard of this cliche, 10x programmers are the demi-heroes of our industry: they get massive accomplishments done with seemingly supernatural endurance and passion.  Perhaps you think you are one ( or someone you know )? I challenge you with the question "How would you know?". This term is popular enough that I think it deserves attention, and I think we can improve from something vague into something concrete. 
 
 I will argue that understanding the term 10x programmer has many uses:
 
-* improving the indentification valuable team members with exceptional skills
+* improving the identification valuable team members with exceptional skills
 * identifying specific actions and skills one can acquire to become a 10x programmer
 * dispelling useless ideas that distract the analysis of your team's clusters of talent
 
 ## Genus
 
-To improve this word what i'm going to do is attempt to give it a more solid definition that is logically consistent with the observed knowledge I have as a seasoned programmer.  How should we do this? A useful definition should follow aristotlean structure:
+To improve this word what i'm going to do is attempt to give it a more solid definition that is logically consistent with the observed knowledge I have as a seasoned programmer.  How should we do this? A useful definition should follow aristotelian structure:
 
 1. Give the word (term)
 2. Identify the group which the term belongs to (genus)
@@ -25,7 +25,7 @@ This first leads us to the question, "what group is a 10x programmer in relation
 * the worst programmers in existence amongst all programmers
 * the average programmers in existence amongst all programmers
 * entry level programmers amongst an organization
-* the opinion of what an average programmer is amonst all programmers 
+* the opinion of what an average programmer is amongst all programmers 
 
 I want to stress first that this relationship should be objective ( existing in reality outside of the mind ) between programmers.  We're wanting to stay as far from a subjective definition as possible, as many people can have imaginations of what programmers are rockstars despite lack of evidence.  We're talking about real performance of some kind that's measurable in the same way that a marathon runner can be objectively measured vs another.
 
@@ -33,14 +33,14 @@ When talking about comparison of skills I think it's important to try to isolate
 
 * programmers still in school and not even working at my organization
 * retired programmers not working in any organization
-* programmers in entirely different industries or skill sets outside of my organizations domain of work
+* programmers in entirely different industries or skill sets outside of my organization's domain of work
 
-The choice of defining 10x programmers within the context of an organization may seem an easy obvious choice, but let me demonstrate some examples that show it's lack of utility.  
+The choice of defining 10x programmers within the context of an organization may seem an easy obvious choice, but let me demonstrate some examples that show its lack of utility.  
 
 * One programmer works at a company with truly great programmers.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers don't exist in this world despite there being objectively great programmers.  This choice of context has prevented us from distinguishing how good the individual is at our organization actually are due to no contrast in relativity.
 * One programmer works at a company, they are average skilled, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has prevented us from seeing the true averageness of the individual.
 
-10x programmer as a concept cannot usefully be in a relation within a organizational context as organizations can be greatly imbalanced. Remember, we're trying to identify the truly exceptional! Let's consider an alternative choice of context to constrain our relations using a programmers role.  This feels useful at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that are primarily compared between each other:
+10x programmer as a concept cannot usefully be in a relation within an organizational context as organizations can be greatly imbalanced. Remember, we're trying to identify the truly exceptional! Let's consider an alternative choice of context to constrain our relations using a programmers role.  This feels useful at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that are primarily compared between each other:
 
 * *graphics* programmers
 * *intern* programmers
@@ -48,40 +48,41 @@ The choice of defining 10x programmers within the context of an organization may
 * *senior* programmers
 
 By using the context of a programmer's role as the genus we discover major insight.  By allowing us to declare "This programmer in this role is 10x better than their peers of similar role", we have the ability to offer evidence to many more useful questions:
-* do we have top tier talent for the roles of programmers we hire?
-* are the interns we've hired of high quality?
-* is our software engineer of such high performance they deserve a promotion to senior engineer?
 
-These are the types of questions I believe the term 10x programmer was meant to be used for in an answer.  We want to identify that which is exceptional in our industry at many skills capacities (junior, senior, etc.) and within narrow types of work (web programming, game programming, devops).
+* "Do we have top tier talent for the roles of programmers we hire?"
+* "Are the interns we've hired of high quality?"
+* "Is our software engineer of such high performance they deserve a promotion to senior engineer?"
+
+These are the types of questions I believe the term 10x programmer was meant to be used for in an answer.  We want to identify those who are exceptional in our industry at many skills capacities (junior, senior, etc.) and within narrow types of work (web programming, game programming, devops).
 
  ## Differentia
 
-This brings us to our next question, in what objective ways is a 10x programmer measurably different from their peers? Let's start firstly with eliminating possibilities.  
+This brings us to our next question, in what objective ways is a 10x programmer measurably different from their peers? Let's start first with eliminating possibilities.  
 
 Firstly our differentia must be something of a long-standing quality.  When talking about the essentials of anything, we must describe the aspects that primarily account for the overall entity.  Random strikes of inspiration, luck, knowing one particular thing at the right moment but nothing else the rest of the time should be totally eliminated.  We're talking about objective qualities of a programmer that are long standing aspects of who they are.
 
 Even within these essential traits that are long-standing there are many ways in which a programmer can never be an order of magnitude greater than their peers:
 
-Consider first typing speed.  A 10x programmer will never be differentiated by natural typing speed.  There are physical and cognitive limits to a programmers ability to type out code. Even if it were possible to augment with technology the speed of typing at 10x ( perhaps through the use of AI or autocompletion ), it is a useless metric that has nothing to do with code quality, if a quick typer types and deletes bad code multiple times their speed does nothing for them versus a programmer that writes the correct code the first time.
+Consider first typing speed.  A 10x programmer will never be differentiated by natural typing speed.  There are physical and cognitive limits to a programmer's ability to type out code. Even if it were possible to augment with technology the speed of typing at 10x ( perhaps through the use of AI or autocompletion ), it is a useless metric that has nothing to do with code quality, if a quick typer types and deletes bad code multiple times their speed does nothing for them versus a programmer that writes the correct code the first time.
 
-Consider also lines of code.  A 10x programmer is not necessarily disinguished by lines of code.  10x quantities of inappropriate abstractions for a simple requirement is not an advantage.  When we try to distinguish a programmer from their peers, meaningful lines of code that satisfy the user and reduce maintenance costs should be what is of consideration. 
+Consider also lines of code.  A 10x programmer is not necessarily distinguished by lines of code.  10x quantities of inappropriate abstractions for a simple requirement is not an advantage.  When we try to distinguish a programmer from their peers, meaningful lines of code that satisfy the user and reduce maintenance costs should be what is of consideration. 
 
-Consider other physical limits: such a cognitive memory space (how many things can one keep in their mind at once), multi-tasking, concious hours in a day, speaking time with other individuals.  These are dimensions which programmers can certainly have advantages in, but not 10x order of magnitude advantages.  
+Consider other physical limits: such a cognitive memory space (how many things can one keep in their mind at once), multi-tasking, conscious hours in a day, speaking time with other individuals.  These are dimensions which programmers can certainly have advantages in, but not 10x order of magnitude advantages.  
 
-Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's conciousness itself.  Not all long term mental capcities a programmer might be 10x capable of are useful to the domain of programming.  Consider recalling random facts (such as flags of a country).  Not quite useful for the writing of code.  Consider one's love of cooking? A person might be great at cooking, but if that passion is isolated to a personal pursuit indepdent of programming, it's useless to our definition.  
+Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's consciousness itself.  Not all long term mental capacities a programmer might be 10x capable of are useful to the domain of programming.  Consider recalling random facts (such as flags of a country).  Not quite useful for the writing of code.  Consider one's love of cooking? A person might be great at cooking, but if that passion is isolated to a personal pursuit independent of programming, it's useless to our definition.  
 
-The characteristics I will argue that are essential to the 10x programmers are the habits that maximize utilization of a programmers physical time to create product features.
+The characteristics I will argue that are essential to the 10x programmers are the habits that maximize utilization of a programmer's physical time to create product features.
 
 ## Objective high-output qualities of 10x Programmers
 
-To show my induction of my conclusion, I will make the argument that creating meaningful and appropriately archited product features has objective requirments:
+To show my induction of my conclusion, I will make the argument that creating meaningful and appropriately architect product features has objective requirements:
 
 * time to do the work
 * a desire to do the work and learn
 * clear understanding of what's valuable to a customer to make that time worthwhile
 * working knowledge of one's code base
 
-A 10x programmer excels in all of these tasks to various high degrees allowing them to outclass their peers.  The biggest constrain is primarily time.  Time can be used well or time can be wasted.  It's the mental capacities and personality of the programmer that make that time well spent or not.
+A 10x programmer excels in all of these tasks to various high degrees allowing them to outclass their peers.  The biggest constraint is primarily time.  Time can be used well or time can be wasted.  It's the mental capacities and personality of the programmer that make that time well spent or not.
 
 > a desire to do the work
 
@@ -89,22 +90,23 @@ A 10x programmer doesn't just view their job as a boring means to pay the bills.
 
 > clear understanding of what's valuable to a customer to make that time worthwhile
 
-10x programmers don't view their work in a vaccuum.  Their work serves a well defined purpose, and they apply reason of their work towards that purpose.  Reasoning of the customers needs or internal engineering's needs prevents them ultimately from using their time in poor ways.
+10x programmers don't view their work in a vacuum.  Their work serves a well defined purpose, and they apply reasoning of their work towards that purpose.  Reasoning of the customers' needs or internal engineering's needs prevents them ultimately from using their time in poor ways.
 
 > working knowledge of one's code base 
 
-They know the terrain of their code.  There is a huge different from a programmer day 1 of joining a company and 6 months in.  They have not put the blinders on about any dark corners of their code repo.  They seek new ways to unblock themselves to allow their use of time to never be hindered.
+They know the terrain of their code.  There is a huge difference from a programmer day 1 of joining a company and 6 months in.  They have not put the blinders on about any dark corners of their code repo.  They seek new ways to unblock themselves to allow their use of time to never be hindered.
 
 There are two distinctive habits of 10x programmers I think that are independent of product feature requirements, but indirectly have great impact on use of time:
 
 >  a strategic method of building knowledge
 
-They are always looking out for new useful principles to integrate their experienced.  To a 10x programmer, the world of programming is not a world of totally unique snowflakes.  There are patterns all over one can recognize, and form into a useful principle for use the next time the situation is encountered.  In particular 10x programmers build these principles from their own experience and when principles are borrowed from authorities they are validated personally.
+They are always looking out for new useful principles to integrate their experience.  To a 10x programmer, the world of programming is not a world of totally unique snowflakes.  There are patterns all over one can recognize, and form into a useful principle for use the next time the situation is encountered.  In particular 10x programmers build these principles from their own experience and when principles are borrowed from authorities they are validated personally.
 
 > they automate 
+
 Avoiding expensive work twice, once knowledge has been acquired, programmers are in a unique position to automate what they learned.  10x programmers take advantage of this to save themselves redundant use of time.
 
-Looking at this list we see similarities amongst these traits that they are all cognitive advantages.  Importantly, they are advantages with huge variation.
+Looking at this list we see similarities amongst these traits that they are all cognitive advantages.  Importantly, there are advantages with huge variation enough to qualify the order of magnitude of "10x".
 
 * the difference between the endurance of a programmer who loves their job vs hates it is huge
 * the difference between a programmer who automates and one who doesn't is huge
@@ -115,6 +117,6 @@ All of these attributes are compounding qualities that when multiplied together 
 
 In conclusion we've identified a useful definition based on objective traits that create high impact action to product deliverables:
 
-> **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has acheived a 10x utilization of their time compared to their peers of a similar role via the acquisition of long-term personal alignment with their work and effective knowledge building/application.
+> **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has achieved a 10x utilization of their time compared to their peers of a similar role via the acquisition of long-term personal alignment with their work and effective knowledge building/application.
 
-With this definition we can identify the exceptional members of our organization clearly. These marveled people that enduringly accomplish great work can be taken down from a pedestal of mythological and seen as realistically heroic peer they are.  Their skills can inspire us with fuel to acheive our own greatness, and not live as a mystery lacking useful comparison or reflection.
+With this definition we can identify the exceptional members of our organization clearly. These marvelous people that enduringly accomplish great work can be taken down from a pedestal of mythological and seen as realistically heroic peers.  Their skills can inspire us with fuel to achieve our own greatness, and not live as a mystery lacking useful comparison or reflection.
