@@ -127,4 +127,4 @@ In conclusion we've identified a useful definition emphasized with traits that i
 
 > **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has achieved a 10x utilization of their time compared to their peers of a similar role via the acquisition of long-term personal alignment with their work and effective knowledge building/application.
 
-With this definition we can identify the exceptional members of our organization clearly. These marvelous people that enduringly accomplish great work can be taken down from a pedestal of mythological and seen as realistically heroic peers.  Their skills can inspire us with fuel to achieve our own greatness, and not live as a mystery lacking useful comparison or reflection.
+With this definition we can identify the exceptional members of our organization clearly. These marvelous people that enduringly accomplish great work can be taken down from a pedestal of mythological and seen as realistically heroic peers.  Their skills can inspire us with fuel to achieve our own greatness, and not live as a mystery leaving us grasping for the greatest within humanity.
