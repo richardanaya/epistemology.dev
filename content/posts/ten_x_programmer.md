@@ -123,17 +123,18 @@ They are always looking out for new useful principles to integrate their experie
 
 Avoiding expensive work twice, once knowledge has been acquired, programmers are in a unique position to automate what they learned.  10x programmers take advantage of this to save themselves from redundant expenditure of time.
 
-Looking at this list we see similarities amongst these traits that they are all mental advantages.  Importantly, there are advantages with a huge spread of impact enough to contribute to the order of magnitude of "10x".
+Looking at this list we see similarities amongst these traits that they are all mental advantages. Importantly, they are traits with a huge spread of impact enough to contribute to the order of magnitude of "10x".
 
 * the difference between the endurance of a programmer who loves their job vs hates it is huge
 * the difference between a programmer who automates and one who doesn't is huge
 * the difference between a programmer who knows their code base and one who doesn't is huge
 
-All of the impacts of these habits are multiplied together to get time usage to that heroic tier.  
+Recognizing the integration of all these traits as "multipliers of large scale that impact product work output" is the important realization.  These observations to make impact, not contradictory with my knowledge of how software development companies work, and can be applied to programmers of every role I can imagine.  Note we did not include dimensions such as leadership or social competency: including these would come at a cost of making 10x programmer useless to individual contributor roles where socialness is a limited applied skill.
+
 ## Conclusion
 
-In conclusion we've identified a useful definition emphasized with traits that impact creation of product deliverables in an objectively-measurable manner:
+With this observations of a useful genus and of traits essential to creation of product features, we can induce a conclusion of a useful definition:
 
 > **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has achieved a 10x utilization of their time compared to their peers of a similar role via the acquisition of long-term personal alignment with their work and effective knowledge building/application.
 
-With this definition we can identify the exceptional members of our organization clearly. These marvelous people that enduringly accomplish great work can be taken down from a pedestal of mythological and seen as realistically heroic peers.  Their skills can inspire us with fuel to achieve our own greatness, and not live as a mystery leaving us grasping for the greatest within humanity.
+With this definition we can identify the exceptional members clearly of all kinds of programmers. These marvelous people that enduringly accomplish great work can be taken down from a pedestal of mythological and seen as realistically heroic peers.  Their skills can inspire us with fuel to achieve our own greatness, and not live as a mystery leaving us grasping for the greatest within humanity.
