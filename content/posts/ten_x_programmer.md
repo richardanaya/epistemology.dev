@@ -40,20 +40,20 @@ The choice of defining 10x programmers within the context of an organization may
 * One programmer works at a company with truly great programmers.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers don't exist in this world despite there being objectively great programmers.  This choice of context has prevented us from distinguishing how good the individual is at our organization actually are due to no contrast in relativity.
 * One programmer works at a company, they are average skilled, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has prevented us from seeing the true averageness of the individual.
 
-10x programmer as a concept cannot be a relation within a organizational context as organizations can be greatly imbalanced. Let's consider an alternative choice of context to constrain our relations using a programmers *role*.  When assigning 10x status we demand a specific context of a role.
+10x programmer as a concept cannot be a relation within a organizational context as organizations can be greatly imbalanced. Let's consider an alternative choice of context to constrain our relations using a programmers **role**.  This feels useful at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that are primarily compared between each other:
 
 * 10x *graphics* programmer
 * 10x *intern* programmer
 * 10x *web* programmer
 * 10x *principle* programmer
 
-Only compared to the role of a programmer as the genus does the terminology become useful.  We suddenly have many more useful questions we can answer with such a constraint founded in evidence:
+By using the context of a programmer's role as the genus we discover major insight.  We suddenly have many more useful questions we can answer with such a constraint founded in evidence:
 
 * do we have top tier talent for the roles of programmers we hire?
 * are the interns we've hired of high quality?
 * is our software engineer of such high performance they deserve a promotion?
 
-These are the types of questions I believe the term 10x programmer was meant to answer.  We want to identify that which is exceptional in our industry at many skills levels and in the context of specific types of work.
+These are the types of questions I believe the term 10x programmer was meant to be used for in an answer.  We want to identify that which is exceptional in our industry at many skills capacities (junior, senior, etc.) and within narrow types of work (web programming, game programming, devops).
 
  ## Differentia
 
