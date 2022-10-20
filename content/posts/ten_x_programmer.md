@@ -14,7 +14,13 @@ Understanding what makes a so-called 10x programmer I think has many uses:
 
 ## Genus
 
-Let's begin by talking definitions.  A 10x programmer should be categorically consistent with other terminology.  What is the genus what is the differentia.  The is an important place to begin because analysis of the genus first leads us to the question, "what is a 10x programmer in reference to?".  There are many options:
+Let's begin by talking definitions.  A good definition should follow aristotlean structure:
+
+1. Give the term
+2. Identify the group which the term belongs to.
+3. Identify the differing properties from the group it belongs to.
+
+What is the genus what is the differentia.  The is an important place to begin because analysis of the genus first leads us to the question, "what is a 10x programmer in reference to?".  There are many options:
 
 * relative to the worst programmer in existence
 * relative to the average programmer in existence
