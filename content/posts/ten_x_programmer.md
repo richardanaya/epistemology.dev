@@ -45,7 +45,7 @@ I think these situations are common enough to conclude that we cannot have a mea
 * *web* programmers are compared to other web devs
 * *senior* programmers are compared to other senior devs
 
-By using the context of a programmer's role as the genus we discover major insight.  By allowing us to declare "This programmer in this role is 10x better than their peers of similar role", we have the ability to offer evidence to many more useful questions:
+By using the context of a programmer's role as the genus we open the door to more insights. By allowing us to declare "This programmer in this role is 10x better than their peers of similar role", we have the ability to offer evidence to many more useful questions with broader consideration external and internal to our organization, but not so broad so to be irrelevant comparisons:
 
 * "Do we have top tier talent for the roles of programmers we hire?"
 * "Are the interns we've hired of high quality?"
