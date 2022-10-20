@@ -4,7 +4,7 @@ date: 2022-10-19T16:17:12-07:00
 draft: true
 ---
 
-An esteemed colleague of mine and I were recently talking about the concept of the 10x programmer. To those of you who have never heard of this cliche, 10x programmers are the demi-heroes of our industry: they get massive accomplishments done with seemingly supernatural endurance and passion.  They are the celebrities of our industry, but they are the people many of us often want on our team and have fond memories of from our jobs. Many questions arise in people in hearing this idea.  Is it real? What does it mean? Perhaps you think you are one ( or someone you know )? This term is popular enough that it deserves attention, and I think we can improve it from something vague into something concrete and useful. 
+An esteemed colleague of mine and I were recently talking about the concept of the 10x programmer. To those of you who have never heard of this cliche, 10x programmers are the demi-heroes of our industry: they get massive accomplishments done with seemingly supernatural endurance and passion.  They aren't necessarily the celebrities of our industry, but they are the people many of us often want on our team and have fond memories of from our jobs. Many questions arise in people in hearing this idea.  Is it real? What does it mean? Perhaps you think you are one ( or someone you know )? This term is popular enough that it deserves attention, and I think we can improve it from something vague into something concrete and useful. 
 
 Understanding the term 10x programmer has many potential uses if it is real:
 
