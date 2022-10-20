@@ -35,7 +35,7 @@ When talking about comparison of skills I think it's important to try to isolate
 * retired programmers not working in any organization
 * programmers in entirely different industries or skill sets outside of my organizations domain of work
 
-The choice of defining 10x programmers within the context of an organization may seem easy, but let me demonstrate some examples that show it's lack of utility.  
+The choice of defining 10x programmers within the context of an organization may seem an easy obvious choice, but let me demonstrate some examples that show it's lack of utility.  
 
 * One programmer works at a company with truly great programmers.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers don't exist in this world despite there being objectively great programmers.  This choice of context has prevented us from distinguishing how good the individual is at our organization actually are due to no contrast in relativity.
 * One programmer works at a company, they are average skilled, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has prevented us from seeing the true averageness of the individual.
