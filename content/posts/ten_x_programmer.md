@@ -4,7 +4,7 @@ date: 2022-10-19T16:17:12-07:00
 draft: true
 ---
 
-An esteemed colleague of mine were recently talking about the concept of the 10x programmer. They exist in the software development industry as a whisper of mythological personas. To those of you who have never heard of this cliche, 10x programmers are the demi-heroes of our industry: they get massive accomplishments done with seemingly supernatural endurance and passion.  Perhaps you think you are one ( or someone you know )? I challenge you with the question "How would you know?". This term is popular enough that I think it deserves attention, and I think we can improve from something vague into something concrete. 
+An esteemed colleague of mine were recently talking about the concept of the 10x programmer. They exist in the software development industry as a whisper of mythological personas. To those of you who have never heard of this cliche, 10x programmers are the demi-heroes of our industry: they get massive accomplishments done with seemingly supernatural endurance and passion.  Perhaps you think you are one ( or someone you know )? I challenge you with the question "How would you know?". This term is popular enough that it deserves attention, and I think we can improve from something vague into something concrete. 
 
 I will argue that understanding the term 10x programmer has many uses:
 
@@ -29,7 +29,7 @@ This first leads us to the question, "what group is a 10x programmer in relation
 
 I want to stress first that this relationship should be objective ( existing in reality outside of the mind ) between programmers.  We're wanting to stay as far from a subjective definition as possible, as many people can have imaginations of what programmers are rockstars despite lack of evidence.  We're talking about real performance of some kind that's measurable in the same way that a marathon runner can be objectively measured vs another.
 
-When talking about comparison of skills I think it's important to try to isolate as many non essential variables as possible. It's useless to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization as a context.  This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes outside of my organization:
+When talking about comparison of skills it's important to try to isolate as many non essential variables as possible. It's useless to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization as a context.  This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes outside of my organization:
 
 * programmers still in school and not even working at my organization
 * retired programmers not working in any organization
@@ -103,7 +103,7 @@ A 10x programmer doesn't just view their job as a boring means to pay the bills.
 
 They know the terrain of their code.  There is a huge difference from a programmer day 1 of joining a company and 6 months in.  They have not put the blinders on about any dark corners of their code repo.  They seek new ways to unblock themselves to allow their use of time to never be hindered.
 
-There are also two other habits of *programmers qua programmers* I think that are independent of product feature requirements, but also have great impact on use of time:
+There are also two other habits of *programmers qua programmers* that are independent of product feature requirements, but also have great impact on use of time:
 
 >  a strategic method of building knowledge
 
