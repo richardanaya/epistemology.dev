@@ -14,7 +14,7 @@ I will argue that understanding the term 10x programmer has many uses:
 
 ## Genus
 
-To improve this word what i'm going to do is attempt to give it a more solid definition that matches the intent I understand of the word and is logically consistent with the knowledge I have as a seasoned programmer.  How should we do this? A useful definition should follow aristotlean structure:
+To improve this word what i'm going to do is attempt to give it a more solid definition that is logically consistent with the knowledge I have as a seasoned programmer.  How should we do this? A useful definition should follow aristotlean structure:
 
 1. Give the word (term)
 2. Identify the group which the term belongs to (genus)
