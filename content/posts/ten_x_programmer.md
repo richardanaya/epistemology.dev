@@ -103,23 +103,23 @@ A 10x programmer doesn't just view their job as a boring means to pay the bills.
 
 They know the terrain of their code.  There is a huge difference from a programmer day 1 of joining a company and 6 months in.  They have not put the blinders on about any dark corners of their code repo.  They seek new ways to unblock themselves to allow their use of time to never be hindered.
 
-There are two other habits of 10x *programmers qua programmers* I think that are independent of product feature requirements, but indirectly have great impact on use of time:
+There are also two other habits of *programmers qua programmers* I think that are independent of product feature requirements, but also have great impact on use of time:
 
 >  a strategic method of building knowledge
 
-They are always looking out for new useful principles to integrate their experience.  To a 10x programmer, the world of programming is not a world of totally unique snowflakes.  There are patterns all over one can recognize, and form into a useful principle for use the next time the situation is encountered.  In particular 10x programmers build these principles from their own experience and when principles are borrowed from authorities they are validated personally.
+They are always looking out for new useful principles to integrate their experience.  To a 10x programmer, the world of programming is not a world of totally unique snowflakes.  There are patterns all over one can recognize, and form into a useful principle for use the next time the situation is encountered.  10x programmers actively build these principles from their own experience and when principles are borrowed from authorities they are validated personally.
 
 > they automate 
 
-Avoiding expensive work twice, once knowledge has been acquired, programmers are in a unique position to automate what they learned.  10x programmers take advantage of this to save themselves redundant use of time.
+Avoiding expensive work twice, once knowledge has been acquired, programmers are in a unique position to automate what they learned.  10x programmers take advantage of this to save themselves from redundant expenditure of time.
 
-Looking at this list we see similarities amongst these traits that they are all cognitive advantages.  Importantly, there are advantages with huge variation enough to qualify the order of magnitude of "10x".
+Looking at this list we see similarities amongst these traits that they are all mental advantages.  Importantly, there are advantages with huge spread of impact enough to contribute to the order of magnitude of "10x".
 
 * the difference between the endurance of a programmer who loves their job vs hates it is huge
 * the difference between a programmer who automates and one who doesn't is huge
 * the difference between a programmer who knows their code base and one who doesn't is huge
 
-All of these attributes are compounding qualities that when multiplied together impact use of time to that heroic tier.  
+All of impacts of these habits are multiplied together to get time usage to that heroic tier.  
 ## Conclusion
 
 In conclusion we've identified a useful definition based on objective traits that create high impact action to product deliverables:
