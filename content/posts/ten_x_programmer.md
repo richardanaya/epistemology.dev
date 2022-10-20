@@ -4,50 +4,56 @@ date: 2022-10-09T16:17:12-07:00
 draft: true
 ---
 
-An esteemed colleague of mine were talking recently about the concept of the 10x programmer.  In our industry of software development a certain whisper of these mythological personas has spread far enough that I think it deserves attention. To those of you reading this who aren't software developers or new to it's tropes, 10x programmers are the demi-heroes of our industry.  They get massive accomplishments done with seemingly super-natural endurance and passion.  Perhaps you think you or someone else you work with might be one? How would you know?
+An esteemed colleague of mine were talking recently about the concept of the 10x programmer. They exist in the software development industry as a whisper of mythological personas. To those of you who have never heard of this cliche, 10x programmers are the demi-heroes of our industry.  They get massive accomplishments done with seemingly super-natural endurance and passion.  Perhaps you think you are one ( or someone you know )? I challenge you with the question "How would you know?". This cliche has gone far enough that I think it deserves attention, and I think we can improve this anticoncept into a real concept. 
 
-Understanding what makes a so-called 10x programmer has many uses:
+I will argue that understanding what makes a so-called 10x programmer has many uses:
 
-* improving the indentification valuable team members with exceptional skills and knowing why they are exceptional
-* knowing concrete actions and reflection one can take to become a 10x programmer
-* dispelling useless ideas that distract the analysis of your organizations team
+* improving the indentification valuable team members with exceptional skills
+* identifying concrete actions and skills one can acquire to become a 10x programmer
+* dispelling useless ideas that distract the analysis of your team's dimensions of talent
 
 ## Genus
 
-Let's begin by talking definitions.  A useful definition should follow aristotlean structure:
+To improve this word what i'm going to do is attempt to give it a more solid definition that matches the intent I understand of the word and is logically consistent with the knowledge I know as a seasoned programmer.  How should we do this? A useful definition should follow aristotlean structure:
 
 1. Give the word (term)
 2. Identify the group which the term belongs to (genus)
-3. Identify the differing properties from the group it belongs to (differentia)
+3. Identify the essential differing properties from the group the term belongs to (differentia)
 
-This first leads us to the question, "what is a 10x programmer in relation to?".  There are many options:
+This first leads us to the question, "what group is a 10x programmer in relation to?".  There are many options:
 
-* relative to the worst programmers in existence
-* relative to the average programmers in existence
-* relative to the entry level programmers within an organization
-* relative to the average social perception of a programmer
+* the worst programmers in existence amongst all programmers
+* the average programmers in existence amongst all programmers
+* entry level programmers amongst an organization
+* the opinion of what an average programmer is amonst all programmers 
 
-We come first to the realization that 10x programmer really is an assignment of skill relative to another group, definitionally I think we should consider the genus the organization to which the programmer belongs to.  When talking about comparison of skills I think it's important to try to isolate as many variables as possible.  Defining the genus of a 10x programmer as "the organization the 10x programmer belongs to" helps us filter out non-essential comparisons.  When we talk about 10x programmers we're not comparing a person to:
+We come first to the recognition that 10x programmer really is a person in a relationship based on skill relative to others within group.  I want to stress first that this relationship should ideally be objective ( existing in reality outside of the mind ) between programmers.  We're wanting to stay as far from a subjective definition as possible, as many people can have imaginations of what programmers are rockstars despite lack of evidence.  We're talking about real performance of some kind that's measurable in the same way that a marathon runner can be objectively measured vs another.
 
-* programmers fresh out of school
-* programmers in entirely different industries or skill sets
+Secondly, we come to the recognition that we need to make a useful categorization. When talking about comparison of skills I think it's important to try to isolate as many non essential variables as possible.  Rarely are we trying to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization.  This choice allows us to completely eliminate many dimensions of programmers from consideration
 
-If we constrain our genus to only the organization a programmer works with, we end up with an useless comparison to anywhere outside of our organization. Consider a company where there's only brilliant programmers, there would never be a 10x programmer, yet a very junior entry level programmer entering into the company would suddenly make many 10x programmers.  This isn't a useful definition.
+* programmers still in school
+* retired programmers
+* programmers in entirely different industries or skill sets outside of my organizations
 
-To resolve this problem, we must recognize that 10x programmer, must refer to a specific context of a role.
+The choice of definiting 10x programmers within the context of an organization may seem easy, but let me demonstrate some examples that show it's lack of utility.  
 
-* 10x *graphics* programmers
-* 10x *intern* programmers
-* 10x *web* programmers
+* One programmer works at a company with truly great programmers.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers don't exist in this world despite there being objectively great programmers.  This choice of context has prevented us from recognizing how good the individual is at our organization actually are due to no contrast in relativity.
+* One programmer works at a company, they are average skilled, but every other developer at this company is completely miserable.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has prevented us from seeing the true averageness of the individual.
+
+10x programmer as a concept cannot be a relation within a organizational context as organizations can be greatly imbalanced. Let's consider an alternative choice of context to constrain our relations using a programmers *role*.  When assigning 10x status we demand a specific context of a role.
+
+* 10x *graphics* programmer
+* 10x *intern* programmer
+* 10x *web* programmer
 * 10x *principle* programmer
 
-Only compared to the role of a programmer as the genus does the terminology become useful.  An organization can suddenly identify many questions:
+Only compared to the role of a programmer as the genus does the terminology become useful.  We suddenly have many more useful questions we can answer with such a constraint founded in evidence:
 
 * do we have top tier talent for the roles of programmers we hire?
 * are the interns we've hired of high quality?
 * is our software engineer of such high performance they deserve a promotion?
 
-These are the types of questions I believe the term 10x programmer was meant to answer.  People we've grasped to label as exceptional.
+These are the types of questions I believe the term 10x programmer was meant to answer.  We want to identify that which is exceptional in our industry at many skills levels and in the context of specific types of work.
 
  ## Differentia
 
