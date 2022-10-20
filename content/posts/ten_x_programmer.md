@@ -40,7 +40,7 @@ The choice of defining 10x programmers within the context of an organization may
 * One programmer works at a company with truly great programmers.  All programmers at this organization are similarly skilled and there are no junior programmers.  10x programmers don't exist in this world despite there being objectively great programmers.  This choice of context has prevented us from distinguishing how good the individual is at our organization actually are due to no contrast in relativity.
 * One programmer works at a company, they are average skilled, but every other developer at this company is completely unskilled.  Relatively, this person is a rockstar compared to their peers, a 10x only in the relation to bad programmers of this ill-fated company. This choice of context has prevented us from seeing the true averageness of the individual.
 
-10x programmer as a concept cannot be a relation within a organizational context as organizations can be greatly imbalanced. Let's consider an alternative choice of context to constrain our relations using a programmers **role**.  This feels useful at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that are primarily compared between each other:
+10x programmer as a concept cannot be a relation within a organizational context as organizations can be greatly imbalanced. Let's consider an alternative choice of context to constrain our relations using a programmers role.  This feels useful at first glance due to our knowledge that not every programmer is an alternative for another, consider various roles that are primarily compared between each other:
 
 * 10x *graphics* programmer
 * 10x *intern* programmer
