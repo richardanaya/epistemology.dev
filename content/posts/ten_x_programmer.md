@@ -26,7 +26,7 @@ This first leads us to the question, "what group is a 10x programmer in relation
 * the average programmers in existence amongst all programmers
 * entry level programmers amongst an organization
 
-When talking about comparison of skills it's important to try to isolate as many non essential variables as possible. It's useless to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization as a context.  This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes outside of my organization:
+When talking about comparison of individuals it's important to try to remove as many non essential variables as possible. It's useless to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization as a context.  This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes outside of my organization:
 
 * programmers still in school and not even working at my organization
 * retired programmers not working in any organization
