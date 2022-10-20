@@ -17,8 +17,8 @@ Understanding what makes a so-called 10x programmer has many uses:
 Let's begin by talking definitions.  A useful definition should follow aristotlean structure:
 
 1. Give the word (term)
-2. Identify the group which the term belongs to. (genus)
-3. Identify the differing properties from the group it belongs to. (differentia)
+2. Identify the group which the term belongs to (genus)
+3. Identify the differing properties from the group it belongs to.(differentia)
 
 This first leads us to the question, "what is a 10x programmer in relation to?".  There are many options:
 
