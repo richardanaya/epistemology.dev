@@ -63,17 +63,23 @@ These are the types of questions I believe the term 10x programmer was meant to 
 
 This brings us to our next question, in what objective ways is a 10x programmer measurably different from their peers? Let's start first with eliminating possibilities.  
 
-Firstly our differentia must be something of a long-standing quality.  When talking about the essentials of anything, we must describe the aspects that primarily account for the overall entity.  Random strikes of inspiration, luck, knowing one particular thing at the right moment but nothing else the rest of the time should be totally eliminated.  We're talking about objective qualities of a programmer that are long standing aspects of who they are.
+Firstly our differentia must be something of a long-standing property of the individual. When talking about the essentials of anything, we must describe the aspects that primarily account for the overall entity.  Random strikes of inspiration, luck, and one time incidents of knowledge should not be considered.
 
-Even within these essential traits that are long-standing there are many ways in which a programmer can never be an order of magnitude greater than their peers:
+Even within these essential traits that are long-standing there are many which a programmer can never be an order of magnitude greater than their peers or aren't meaningful even if greater:
 
-Consider first typing speed.  A 10x programmer will never be differentiated by natural typing speed.  There are physical and cognitive limits to a programmer's ability to type out code. Even if it were possible to augment with technology the speed of typing at 10x ( perhaps through the use of AI or autocompletion ), it is a useless metric that has nothing to do with code quality, if a quick typer types and deletes bad code multiple times their speed does nothing for them versus a programmer that writes the correct code the first time.
+> typing speed
 
-Consider also lines of code.  A 10x programmer is not necessarily distinguished by lines of code.  10x quantities of inappropriate abstractions for a simple requirement is not an advantage.  When we try to distinguish a programmer from their peers, meaningful lines of code that satisfy the user and reduce maintenance costs should be what is of consideration. 
+A 10x programmer will never be differentiated by natural typing speed.  There are physical and cognitive limits to a programmer's ability to type out code. Even if it were possible to augment with technology the speed of typing at 10x ( perhaps through the use of AI or autocompletion ), it is a useless metric that has nothing to do with code quality, if a quick typer types and deletes bad code multiple times their speed does nothing for them versus a programmer that writes the correct code the first time.
 
-Consider other physical limits: such a cognitive memory space (how many things can one keep in their mind at once), multi-tasking, conscious hours in a day, speaking time with other individuals.  These are dimensions which programmers can certainly have advantages in, but not 10x order of magnitude advantages.  
+> output of lines of code
 
-Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's consciousness itself.  Not all long-term mental characteristics a programmer possesses are useful to their work though.  Consider:
+A 10x programmer is not necessarily distinguished by lines of code.  10x quantities of inappropriate abstractions for a simple requirement is not an advantage.  When we try to distinguish a programmer from their peers, meaningful lines of code that satisfy the user and reduce maintenance costs should be what is of consideration. 
+
+> physical advantages
+
+Consider other physical aspects: conscious hours in a day, bodily health, raw brain power (the ability to keep many things in your mind at once).  These are dimensions which programmers can certainly have advantages in, but not order of magnitude advantages.
+
+Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's individual nature.  I should be clear though that even within long-term mental/personal characteristics a programmer possesses, there are many that are useless to the work of programming:
 
 * Recalling random facts (such as flags of a country) of an unreleted domain. 
 * An intense hobby (say cooking).
