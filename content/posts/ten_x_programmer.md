@@ -9,8 +9,8 @@ An esteemed colleague of mine were recently talking about the concept of the 10x
 I will argue that understanding the term 10x programmer has many uses:
 
 * improving the indentification valuable team members with exceptional skills
-* identifying concrete actions and skills one can acquire to become a 10x programmer
-* dispelling useless ideas that distract the analysis of your team's dimensions of talent
+* identifying specific actions and skills one can acquire to become a 10x programmer
+* dispelling useless ideas that distract the analysis of your team's clusters of talent
 
 ## Genus
 
