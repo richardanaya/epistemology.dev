@@ -4,27 +4,27 @@ date: 2022-10-09T16:17:12-07:00
 draft: true
 ---
 
-An esteemed colleague of mine were talking recently about the concept of the 10x programmer.  In our industry of software development a certain whisper of these mythological personas has spread far enough that I think it deserves attention. To those of you reading this who aren't software developers or new to it's tropes, 10x programmers are the demi-heroes of our industry.  They get massive accomplishments done with seemingly super-natural endurance and passion.  Perhaps you think you might be one.
+An esteemed colleague of mine were talking recently about the concept of the 10x programmer.  In our industry of software development a certain whisper of these mythological personas has spread far enough that I think it deserves attention. To those of you reading this who aren't software developers or new to it's tropes, 10x programmers are the demi-heroes of our industry.  They get massive accomplishments done with seemingly super-natural endurance and passion.  Perhaps you think you or someone else you work with might be one? How would you know?
 
-Understanding what makes a so-called 10x programmer I think has many uses:
+Understanding what makes a so-called 10x programmer has many uses:
 
-* improving the indentification valuable team members with exceptional skills
+* improving the indentification valuable team members with exceptional skills and knowing why they are exceptional
 * knowing concrete actions and reflection one can take to become a 10x programmer
-* dispelling useless ideas that prevent you from seeing your situation with clearer eyes
+* dispelling useless ideas that distract the analysis of your organizations team
 
 ## Genus
 
-Let's begin by talking definitions.  A good definition should follow aristotlean structure:
+Let's begin by talking definitions.  A useful definition should follow aristotlean structure:
 
-1. Give the term
-2. Identify the group which the term belongs to.
-3. Identify the differing properties from the group it belongs to.
+1. Give the word (term)
+2. Identify the group which the term belongs to. (genus)
+3. Identify the differing properties from the group it belongs to. (differentia)
 
-What is the genus what is the differentia.  The is an important place to begin because analysis of the genus first leads us to the question, "what is a 10x programmer in reference to?".  There are many options:
+This first leads us to the question, "what is a 10x programmer in relation to?".  There are many options:
 
-* relative to the worst programmer in existence
-* relative to the average programmer in existence
-* relative to the entry level programmer within an organization
+* relative to the worst programmers in existence
+* relative to the average programmers in existence
+* relative to the entry level programmers within an organization
 * relative to the average social perception of a programmer
 
 We come first to the realization that 10x programmer really is an assignment of skill relative to another group, definitionally I think we should consider the genus the organization to which the programmer belongs to.  When talking about comparison of skills I think it's important to try to isolate as many variables as possible.  Defining the genus of a 10x programmer as "the organization the 10x programmer belongs to" helps us filter out non-essential comparisons.  When we talk about 10x programmers we're not comparing a person to:
