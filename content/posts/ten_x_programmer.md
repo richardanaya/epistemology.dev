@@ -76,9 +76,9 @@ Consider also lines of code.  A 10x programmer is not necessarily distinguished 
 
 Consider other physical limits: such a cognitive memory space (how many things can one keep in their mind at once), multi-tasking, conscious hours in a day, speaking time with other individuals.  These are dimensions which programmers can certainly have advantages in, but not 10x order of magnitude advantages.  
 
-Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's consciousness itself.  Not all long term mental capacities a programmer might be 10x capable of are useful to the domain of programming.  Consider recalling random facts (such as flags of a country).  Not quite useful for the writing of code.  Consider one's love of cooking? A person might be great at cooking, but if that passion is isolated to a personal pursuit independent of programming, it's useless to our definition.  
+Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's consciousness itself.  Not all long term mental capacities a programmer might be 10x capable of are useful to the domain of programming.  Consider recalling random facts (such as flags of a country).  Not quite useful for the writing of code.  Consider one's love of cooking? A person might have a great hobby (say cooking), but if that passion is isolated to a personal pursuit independent of programming, it's useless to our definition.  
 
-The characteristics I will argue that are essential to the 10x programmers are the habits that maximize utilization of a programmer's physical time to create product features.
+The characteristics I will argue that are essential to the 10x programmers are the habits that specifically maximize utilization of a programmer's physical time to create product features.
 
 ## Objective high-output qualities of 10x Programmers
 
