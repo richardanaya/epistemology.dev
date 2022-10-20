@@ -89,7 +89,7 @@ To show my induction of my conclusion, I will make the argument that creating me
 * clear understanding of what's valuable to a customer to make that time worthwhile
 * working knowledge of one's code base
 
-A 10x programmer excels in all of these tasks to various high degrees allowing them to outclass their peers.  The biggest constraint is primarily time.  Time can be used well or time can be wasted.  It's the mental capacities and personality of the programmer that make that time well spent or not.
+A 10x programmer excels in all of these requirements to various high degrees allowing them to outpace their peers.  The biggest constraint is primarily time.  Time can be used well or time can be wasted.  It's the mental capacities and personality of the programmer that make that time well spent or not.
 
 > a desire to do the work
 
