@@ -57,7 +57,7 @@ These are the types of questions I believe the term 10x programmer was meant to 
 * "Our devops team is really average compared to the 10x devops I saw at my last company"
 * "That new intern is 10x and hungry, I can see them going places fast"
 
- We want to identify those who are exceptional in our industry at many skills capacities (junior, senior, etc.) and within comparable types of work (web programming, game programming, devops).
+ We want to identify those who are exceptional in our industry at many skills capacities (junior, senior, etc.) and within comparable types of work (web programming, game programming, devops, etc.).
 
  ## Differentia
 
