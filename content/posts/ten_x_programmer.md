@@ -14,7 +14,7 @@ I will argue that understanding the term 10x programmer has many uses:
 
 ## Genus
 
-To improve this word what i'm going to do is attempt to give it a more solid definition that is logically consistent with the knowledge I have as a seasoned programmer.  How should we do this? A useful definition should follow aristotlean structure:
+To improve this word what i'm going to do is attempt to give it a more solid definition that is logically consistent with the observed knowledge I have as a seasoned programmer.  How should we do this? A useful definition should follow aristotlean structure:
 
 1. Give the word (term)
 2. Identify the group which the term belongs to (genus)
@@ -27,11 +27,11 @@ This first leads us to the question, "what group is a 10x programmer in relation
 * entry level programmers amongst an organization
 * the opinion of what an average programmer is amonst all programmers 
 
-We come first to the recognition that 10x programmer really is a person in a relationship based on skill relative to others within group.  I want to stress first that this relationship should ideally be objective ( existing in reality outside of the mind ) between programmers.  We're wanting to stay as far from a subjective definition as possible, as many people can have imaginations of what programmers are rockstars despite lack of evidence.  We're talking about real performance of some kind that's measurable in the same way that a marathon runner can be objectively measured vs another.
+I want to stress first that this relationship should ideally be objective ( existing in reality outside of the mind ) between programmers.  We're wanting to stay as far from a subjective definition as possible, as many people can have imaginations of what programmers are rockstars despite lack of evidence.  We're talking about real performance of some kind that's measurable in the same way that a marathon runner can be objectively measured vs another.
 
-Secondly, we come to the recognition that we need to make a useful categorization to distinguish from. When talking about comparison of skills I think it's important to try to isolate as many non essential variables as possible.  Rarely are we trying to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization as a context.  This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes:
+When talking about comparison of skills I think it's important to try to isolate as many non essential variables as possible. It's useless to compare 10x programmers totally outside of a specific context. Consider for instance the choice of looking at 10x programmers at my organization as a context.  This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes:
 
-* programmers still in school
+* programmers still in school and not even working
 * retired programmers
 * programmers in entirely different industries or skill sets outside of my organizations
 
