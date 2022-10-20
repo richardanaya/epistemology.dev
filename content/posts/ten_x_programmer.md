@@ -73,20 +73,24 @@ Consider also lines of code.  A 10x programmer is not necessarily distinguished 
 
 Consider other physical limits: such a cognitive memory space (how many things can one keep in their mind at once), multi-tasking, conscious hours in a day, speaking time with other individuals.  These are dimensions which programmers can certainly have advantages in, but not 10x order of magnitude advantages.  
 
-Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's consciousness itself.  Not all long term mental capacities a programmer might be 10x capable of are useful to the domain of programming.  Consider recalling random facts (such as flags of a country).  Not quite useful for the writing of code.  Consider one's love of cooking? A person might have a great hobby (say cooking), but if that passion is isolated to a personal pursuit independent of programming, it's useless to our definition.  
+Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's consciousness itself.  Not all long-term mental characteristics a programmer possesses are useful to their work though.  Consider:
 
-The characteristics I will argue that are essential to the 10x programmers are the habits that specifically maximize utilization of a programmer's physical time to create product features.
+* Recalling random facts (such as flags of a country) of an unreleted domain. 
+* An intense hobby (say cooking).
+* A nack for smalltalk about sports.
+
+Though these do make for a intriguing coworker, the characteristics I will argue that are essential to the 10x programmers are the habits that specifically maximize utilization of a programmer's time to create product features.
 
 ## High-output habits of 10x Programmers
 
-To show my induction of my conclusion, I will make the argument that creating meaningful and appropriately architected product features has objective requirements:
+To show my integration of my conclusion, I will make the argument that creating meaningful and appropriately architected product features has objective requirements:
 
 * time to do the work
 * a desire to do the work and learn
 * clear understanding of what's valuable to a customer to make that time worthwhile
 * working knowledge of one's code base
 
-A 10x programmer excels in all of these requirements to various high degrees allowing them to outpace their peers.  The biggest constraint is primarily time.  Time can be used well or time can be wasted.  It's the mental capacities and personality of the programmer that make that time well spent or not.
+A 10x programmer excels in all of these requirements to high degrees allowing them to outpace their peers and deserve their distinction.  The biggest variable is primarily time.  Time can be used well or time can be wasted.  It is the mental capacities and personality of the programmer that make that time well spent or not.
 
 > a desire to do the work
 
