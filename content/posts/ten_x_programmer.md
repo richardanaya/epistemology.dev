@@ -57,31 +57,61 @@ These are the types of questions I believe the term 10x programmer was meant to 
 
  ## Differentia
 
-This brings us to our next question, in what objective ways is a 10x programmer different from their peers? Let's start firstly with eliminating possibilities.  
+This brings us to our next question, in what objective ways is a 10x programmer measurably different from their peers? Let's start firstly with eliminating possibilities.  
 
-Firstly our differentia must be something of a long-standing quality.  When talking about the essentials of anything, we must describe the aspects that primarily account for the overall entity.  Random strikes of inspiration, luck, knowing one particular thing at the right moment in time should be totally eliminated.  We're talking about objective qualities of a programmer that are long standing aspects of who they are.
+Firstly our differentia must be something of a long-standing quality.  When talking about the essentials of anything, we must describe the aspects that primarily account for the overall entity.  Random strikes of inspiration, luck, knowing one particular thing at the right moment but nothing else the rest of the time should be totally eliminated.  We're talking about objective qualities of a programmer that are long standing aspects of who they are.
 
-Even within these essential traits there are many ways in which a programmer can never be an order of magnitude greater than their peers:
+Even within these essential traits that are long-standing there are many ways in which a programmer can never be an order of magnitude greater than their peers:
 
-Consider first typing speed.  A 10x programmer can never be differentiated by natural typing speed.  There are physical and cognitive limits to a programmers ability to type out code. Even if it were possible to augment with technology the speed of typing at 10x ( perhaps through the use of AI or autocompletion ), it is a useless metric that has nothing to do with code quality, if a quick typer types and deletes bad code multiple times their speed does nothing for them versus a programmer that writes the correct code the first time.
+Consider first typing speed.  A 10x programmer will never be differentiated by natural typing speed.  There are physical and cognitive limits to a programmers ability to type out code. Even if it were possible to augment with technology the speed of typing at 10x ( perhaps through the use of AI or autocompletion ), it is a useless metric that has nothing to do with code quality, if a quick typer types and deletes bad code multiple times their speed does nothing for them versus a programmer that writes the correct code the first time.
 
-Consider also lines of code.  A 10x programmer is not necessarily disinguished by lines of code.  10x quantities of inappropriate abstractions for a simple requirement is not an advantage.  When we tryin to distinguish a programmer from their peers, meaningful architected lines of code should be what is of consideration. 
+Consider also lines of code.  A 10x programmer is not necessarily disinguished by lines of code.  10x quantities of inappropriate abstractions for a simple requirement is not an advantage.  When we try to distinguish a programmer from their peers, meaningful lines of code that satisfy the user and reduce maintenance costs should be what is of consideration. 
 
-Consider other physical limits: such a cognitive memory, concious hours in a day, caffiene intake, number of meetings with colleagues.  These are dimensions which programmers can certainly have advantages in, but not 10x order of magnitude advantages.  
+Consider other physical limits: such a cognitive memory space (how many things can one keep in their mind at once), multi-tasking, concious hours in a day, speaking time with other individuals.  These are dimensions which programmers can certainly have advantages in, but not 10x order of magnitude advantages.  
 
-The viable candidates remaining concentrate on long-term mental/personal characteristics of the programmer's conciousness itself.  When integrating various advantages we see programmers have, we begin to see the commonality of increasing the utilization of a programmers physical time.  The leads us to a conclusion that 10x programmer is sufficiently distinguished by objective cognitive qualities that allow the individual to maximize the utilization of their time in an enduring stating way.
+Viable candidates for differentia concentrate on long-term mental/personal characteristics of the programmer's conciousness itself.  Not all long term mental capcities a programmer might be 10x capable of are useful to the domain of programming.  Consider recalling random facts (such as flags of a country).  Not quite useful for the writing of code.  Consider one's love of cooking? A person might be great at cooking, but if that passion is isolated to a personal pursuit indepdent of programming, it's useless to our definition.  
 
-## Objective cognitive qualities of 10x Programmers
+The characteristics I will argue that are essential to the 10x programmers are the habits that maximize utilization of a programmers physical time to create product features.
 
-Below are my personal inductions of habits that meet that criteria from my observed experiences of the greatest programmers i've worked with:
+## Objective high-output qualities of 10x Programmers
 
-Knowing one's objective purpose and loving it deeply.
-- not destructive habits irrationally aligned
+To show my induction of my conclusion, I will make the argument that creating meaningful and appropriately archited product features has objective requirments:
 
-Knowing one's codebase and processes broadly to be maximally autonomous
+* time to do the work
+* a desire to do the work and learn
+* clear understanding of what's valuable to a customer to make that time worthwhile
+* working knowledge of one's code base
 
-Forming knowledge well
+A 10x programmer excels in all of these tasks to various high degrees allowing them to outclass their peers.  The biggest constrain is primarily time.  Time can be used well or time can be wasted.  It's the mental capacities and personality of the programmer that make that time well spent or not.
 
+> a desire to do the work
+
+A 10x programmer doesn't just view their job as a boring means to pay the bills.  To them programming is their life pursuit, a passion that does not stop at the end of a day.  They love to learn, to produce, and will do so even when not being paid or told to do so.  They have made programming their purpose and that gives them the endurance to make things by utilizing their time for longer periods of time than their peers.
+
+> clear understanding of what's valuable to a customer to make that time worthwhile
+
+10x programmers don't view their work in a vaccuum.  Their work serves a well defined purpose, and they apply reason of their work towards that purpose.  Reasoning of the customers needs or internal engineering's needs prevents them ultimately from using their time in poor ways.
+
+> working knowledge of one's code base 
+
+They know the terrain of their code.  There is a huge different from a programmer day 1 of joining a company and 6 months in.  They have not put the blinders on about any dark corners of their code repo.  They seek new ways to unblock themselves to allow their use of time to never be hindered.
+
+There are two distinctive habits of 10x programmers I think that are independent of product feature requirements, but indirectly have great impact on use of time:
+
+>  a strategic method of building knowledge
+
+They are always looking out for new useful principles to integrate their experienced.  To a 10x programmer, the world of programming is not a world of totally unique snowflakes.  There are patterns all over one can recognize, and form into a useful principle for use the next time the situation is encountered.  In particular 10x programmers build these principles from their own experience and when principles are borrowed from authorities they are validated personally.
+
+> they automate 
+Avoiding expensive work twice, once knowledge has been acquired, programmers are in a unique position to automate what they learned.  10x programmers take advantage of this to save themselves redundant use of time.
+
+Looking at this list we see similarities amongst these traits that they are all cognitive advantages.  Importantly, they are advantages with huge variation.
+
+* the difference between the endurance of a programmer who loves their job vs hates it is huge
+* the difference between a programmer who automates and one who doesn't is huge
+* the difference between a programmer who knows their code base and one who doesn't is huge
+
+All of these attributes are compounding qualities that when multiplied together impact use of time to that heroic tier.  
 ## Conclusion
 
 In conclusion we've identified a useful and objective definition:
