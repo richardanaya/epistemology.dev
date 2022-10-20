@@ -80,7 +80,7 @@ Viable candidates for differentia concentrate on long-term mental/personal chara
 
 The characteristics I will argue that are essential to the 10x programmers are the habits that specifically maximize utilization of a programmer's physical time to create product features.
 
-## Objective high-output qualities of 10x Programmers
+## High-output habits of 10x Programmers
 
 To show my induction of my conclusion, I will make the argument that creating meaningful and appropriately architected product features has objective requirements:
 
