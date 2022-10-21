@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'Software Developer Epistemology'
 publishDir = "docs"
 theme = "holy"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

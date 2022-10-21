@@ -26,7 +26,9 @@ This first leads us to the question, "what group is a 10x programmer in relation
 * A 10x programmer is 10x better than the the average programmers in existence amongst all programmers
 * A 10x programmer is 10x better than the entry level programmers amongst an organization
 
-[[file:ten_x_programmer_1.png]]
+<div style="display: flex;width: 100%;align-items: center;justify-content: center">
+<img src="../ten_x_programmer_1.svg" style="border-radius:1rem">
+</div>
 
 When talking about comparison of individuals it's important to try to remove as many non-essential comparisons as possible. It's useless to compare 10x programmers totally outside of a specific context. What could be answered by knowing a person is 10x better than the worst programmer in the world? Not much. Let's consider the choice of looking at 10x programmers in an organizational context. This choice allows us to completely eliminate many categories of programmers from consideration with non-essential attributes not related to the organization we work at:
 
