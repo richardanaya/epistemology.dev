@@ -61,7 +61,7 @@ So let's recapp, we've identified a genus, and our definition of 10x programmer 
 > **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has achieved a 10x <insert destinguishing objective qualities> compared to their peers of similar role.
 
 <div style="display: flex;width: 100%;align-items: center;justify-content: center">
-<img src="../ten_x_programmer_1.svg" style="border-radius:1rem">
+<img src="../ten_x_programmer_2.svg" style="border-radius:1rem">
 </div>
 
  ## Differentia
