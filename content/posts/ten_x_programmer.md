@@ -31,7 +31,7 @@ This first leads us to the question, "what group is a 10x programmer in relation
 <img src="../ten_x_programmer_1.svg" style="border-radius:1rem">
 </div>
 
-We're looking for a comparison that gives fruitful conclusions. What could be applied from knowing a person is 10x better than the worst programmer in the world? Not much.  There might be very little between them you could compare at all given you don't even have gaurantees they have similar coding skills. Let's consider a more useful choice of looking at 10x programmers in an organizational context. This really allows us to focus on a useful comparison, especially by eliminatating a whole swath of programmers from the comparison:
+We're looking for a comparison that gives fruitful conclusions. What could be applied from knowing a person is 10x better than the worst programmer in the world? Not much.  There might be very little between them you could compare at all given you don't even have guarantees they have similar coding skills. Let's consider a more useful choice of looking at 10x programmers in an organizational context. This really allows us to focus on a useful comparison, especially by eliminating a whole swath of programmers from the comparison:
 
 * programmers still in school and not even working with us
 * retired programmers not working in any organization
@@ -50,15 +50,15 @@ If 10x programmer is to be useful term, it most be possible to identify the exce
 Let's consider an alternative choice of context for our definition -- comparing by a programmers role. This has two advantages, first is that it radically increases the pool of people being compared.  There's much more senior web developers in the industry as a whole than just at your company. This also feels more appropriate due to the common sense that not every programmer is an alternative for another, consider various roles that have individuals who are commonly compared between each other:
 
 * *intern* programmers are compared to other interns
-* *web* programmers are compared to other web devs
-* *senior* programmers are compared to other senior devs
+* *web* programmers are compared to other web developers
+* *senior* programmers are compared to other senior developers
 * *graphics* programmers are compared to other graphics programmers
 
 By using the context of a programmer's role as the genus we open the door to more insights.  With more entities to compare with more overlapping skills, we can more confidently declare "This programmer in this role is 10x better than their peers of similar role".
 
-So let's recapp, we've identified a genus, and our definition of 10x programmer thus far is: 
+So let's recap, we've identified a genus, and our definition of 10x programmer thus far is: 
 
-> **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has achieved a 10x <insert destinguishing objective qualities> compared to their peers of similar role.
+> **10x programmer** *tɛn ɛks ˈprəʊgræmə* - n. A programmer of a specific role who has achieved a 10x [insert distinguishing objective quality] compared to their peers of similar role.
 
 <div style="display: flex;width: 100%;align-items: center;justify-content: center">
 <img src="../ten_x_programmer_2.svg" style="border-radius:1rem">
